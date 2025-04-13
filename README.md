@@ -1,2 +1,4 @@
 # gender-and-age-prediction
 Predicting gender and age from facial images using deep learning and the UTKFace dataset. We train a CNN model to accurately classify gender and estimate age, helping in applications like security, analytics, and personalization.
+
+This project focuses on predicting gender and age from facial images using deep learning techniques. We use the UTKFace dataset, which contains over 20,000 face images labeled with age, gender, and ethnicity. A Convolutional Neural Network (CNN) model is trained to automatically learn features from the images and perform two tasks: classify gender (male/female) and estimate age. The goal is to build an accurate and efficient model that can analyze a face and provide reliable gender and age predictions. This kind of model can be useful in applications like security systems, user analytics, and personalization.
